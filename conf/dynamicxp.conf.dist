@@ -24,7 +24,12 @@ Dynamic.XP.Rate.20-29 = 3
 Dynamic.XP.Rate.30-39 = 4
 Dynamic.XP.Rate.40-49 = 5
 Dynamic.XP.Rate.50-59 = 6
-Dynamic.XP.Rate.60-69 = 7
-Dynamic.XP.Rate.70-79 = 8
+Dynamic.XP.Rate.60 = 7
+Dynamic.XP.Rate.61-64 = 8
+Dynamic.XP.Rate.65-69 = 9
+Dynamic.XP.Rate.70 = 10
+Dynamic.XP.Rate.71-74 = 11
+Dynamic.XP.Rate.75-79 = 12
+Dynamic.XP.Rate.80 = 13
 
 ##################################################################################################################
