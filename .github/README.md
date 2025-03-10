@@ -18,8 +18,13 @@ Set xp per level range e.g in dynamicxp.conf.
 - Dynamic.XP.Rate.30-39 = 4.0
 - Dynamic.XP.Rate.40-49 = 5.0
 - Dynamic.XP.Rate.50-59 = 6.0
-- Dynamic.XP.Rate.60-69 = 7.0
-- Dynamic.XP.Rate.70-79 = 8.0
+- Dynamic.XP.Rate.60 = 7.0
+- Dynamic.XP.Rate.61-64 = 8.0
+- Dynamic.XP.Rate.65-69 = 9.0
+- Dynamic.XP.Rate.70 = 10.0
+- Dynamic.XP.Rate.71-74 = 11.0
+- Dynamic.XP.Rate.75-79 = 12.0
+- Dynamic.XP.Rate.80 = 13.0
 
 ## Credits
 
